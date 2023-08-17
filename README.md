@@ -1,2 +1,2 @@
-# Construção de Agoritmos
-Construção de Agoritmos e Uso de Funções
+# Construção de agoritmos
+Construção de agoritmos e uso de funções
